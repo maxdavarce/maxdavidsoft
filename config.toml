@@ -1,0 +1,41 @@
+languageCode = "en-us"
+title = "MaxDavidSoft"
+# baseurl = "http://example.org/"
+theme = "aerial"
+
+[params]
+  name = "Max David Arce Aybar"
+  about = "Desarrollador Web &nbsp;&bull;&nbsp; Programador Senior &nbsp;&bull;&nbsp; Hijo de Dios"
+  copyright = "MaxDavidSoft"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/maxdarce"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/maxdavarce"
+
+# [[params.social]]
+#   medium = "Dribbble"
+#   icon = "dribbble"
+#   link = "#"
+
+# [[params.social]]
+#   medium = "Github"
+#   icon = "github"
+#   link = "#"
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/maxdavarce/"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:maxdarce@outlook.com"
